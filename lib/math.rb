@@ -1,17 +1,17 @@
 def addition(num1, num2)
-  2+9
+  2 + 9
 end
 
 def subtraction(num1, num2)
-  55- 32
+  55 - 32
 end
 
 def division(num1, num2)
-  88.0/6
+  88.0 / 6
 end
 
 def multiplication(num1, num2)
-  33 ** 22
+  33 * 22
 end
 
 def modulo(num1, num2)
